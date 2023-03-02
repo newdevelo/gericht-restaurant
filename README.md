@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://assets.iqonic.design/free-items-preview/wordpress/Gericht/06.webp"  />
+  <img height="600" src="https://assets.iqonic.design/free-items-preview/wordpress/Gericht/06.webp"  />
 </div>
 
 ###
